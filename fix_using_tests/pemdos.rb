@@ -2,7 +2,7 @@
 
 require 'pry'
 
-10.times "s"
+puts 10.times "s"
 
 binding.pry
 
