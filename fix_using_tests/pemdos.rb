@@ -2,7 +2,7 @@
 
 require 'pry'
 
-puts 10.times "s"
+10.times "s"
 
 binding.pry
 
